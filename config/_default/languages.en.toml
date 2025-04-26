@@ -1,0 +1,24 @@
+languageCode = "en-AU"
+languageName = "English (Australia)"
+languageDirection = "ltr"
+weight = 1
+
+title = "sshme"
+#copyright = "&copy; 2024 Congo contributors"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  mainSections = ["archive"]
+  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+
+[params.author]
+  name = "sshme"
+  image = "img/cookie.jpg"
+  #headline = "Not your ordinary theme!"
+  bio = "Failure can have me when it earns me."
+  links = [
+    { x-twitter = "https://x.com/sshmelol" },
+    { youtube = "https://www.youtube.com/@sshmelol" },
+    { email = "mailto:sshmelol@gmail.com" },
+  ]
