@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Apisecurity on sshme</title><link>https://baeziy.github.io/sshmeblog/tags/apisecurity/</link><description>Recent content in Apisecurity on sshme</description><generator>Hugo</generator><language>en-AU</language><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://baeziy.github.io/sshmeblog/tags/apisecurity/index.xml" rel="self" type="application/rss+xml"/><item><title>ASCP Exam</title><link>https://baeziy.github.io/sshmeblog/archive/ascp-exam-review/</link><pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate><guid>https://baeziy.github.io/sshmeblog/archive/ascp-exam-review/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apisecurity on sshme</title>
+    <link>/tags/apisecurity/</link>
+    <description>Recent content in Apisecurity on sshme</description>
+    <generator>Hugo</generator>
+    <language>en-AU</language>
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/apisecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ASCP Exam</title>
+      <link>/archive/ascp-exam-review/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/archive/ascp-exam-review/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
